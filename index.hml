@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Лабораторна робота 2</title>
+</head>
+<body>
+    <h1>Лаба 2, відккрити (F12)</h1>
+    
+    <script src="task1.js"></script>
+    <script src="task2.js"></script>
+    <script src="task3.js"></script>
+</body>
+</html>
